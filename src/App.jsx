@@ -11,7 +11,7 @@ import Contact from './husband/Contact';
 import State1 from './useStateByabhay/State1';
 import Rgba from './useStateByabhay/Rgba';
 // import Add from './component/Add';
-import Arrrrr from './Arrays/Arrrrr';
+import Arrrrr from './Arrays/Arrrrr'; 
 
 
 
@@ -33,8 +33,8 @@ function App () {
       {/* <State1 /> */}
       {/* <Rgba /> */}
       {/* <Add /> */}
-      {/* <Arrrrr />*/}
-     
+      <Arrrrr />
+
      
      
     
